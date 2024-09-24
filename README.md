@@ -31,16 +31,18 @@ Create and Activate a Virtual Environment:
       python -m venv ifc_viewer_env
       source ifc_viewer_env/bin/activate  # On Windows use `ifc_viewer_env\Scripts\activate`
    ```
+
 Install Dependencies:
-bash
-pip install -r requirements.txt
+   ```bash
+      pip install -r requirements.txt
+```
 
 [Install IfcOpenShell](https://docs.ifcopenshell.org/ifcopenshell-python/installation.html)
 
 Run the Application:
-bash
+```bash
 python main.py
-
+```
 Usage
 Open an IFC file using the "File" menu.
 Click on walls to view their properties.
