@@ -1,5 +1,5 @@
 text
-# IFC Viewer
+# Bim Viewer
 
 ## Overview
 
