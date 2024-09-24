@@ -22,8 +22,8 @@ This project is an Bim Viewer application built using PyQt5 and OpenGL and IfcOp
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone (https://github.com/Atharvack/Bim-Viewer.git)
+   
 
 Create and Activate a Virtual Environment:
 bash
