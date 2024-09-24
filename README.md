@@ -26,10 +26,11 @@ This project is an Bim Viewer application built using PyQt5 and OpenGL and IfcOp
    
 
 Create and Activate a Virtual Environment:
-bash
-python -m venv ifc_viewer_env
-source ifc_viewer_env/bin/activate  # On Windows use `ifc_viewer_env\Scripts\activate`
 
+   ```bash
+      python -m venv ifc_viewer_env
+      source ifc_viewer_env/bin/activate  # On Windows use `ifc_viewer_env\Scripts\activate`
+   ```
 Install Dependencies:
 bash
 pip install -r requirements.txt
